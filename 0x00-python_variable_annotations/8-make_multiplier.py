@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Complex types"""
+"""Complex types annotations"""
 from typing import Callable
 
 
